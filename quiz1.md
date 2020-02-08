@@ -29,3 +29,27 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 9. What happens when we enter `npm install`?
 
 10. List 3 of JS's _primitive data types._
+
+## Answers
+
+1. `git` is a terminal that allows a user to interact with and create repositories/directories
+
+2. `bash` is an interface that allows a user to 
+
+3. cd ..
+
+4. 
+
+5. Something is wrong with the code you created, like missing "( )" 
+
+6. `let` and `const`
+
+7. 
+
+8. 
+
+9.
+
+10. string, number, boolean
+
+
