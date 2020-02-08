@@ -34,22 +34,40 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 
 1. `git` is a terminal that allows a user to interact with and create repositories/directories
 
+- A VCS that provides benefits such as 'code backups' when 'push'ing to gitub.com, collaborative work, etc.
+
 2. `bash` is an interface
 
-3. cd ..
+- 'bash' is program installed in most terminal emulators that gives us commands to work with our computer and file system
+
+3. cd
+
+- cd
 
 4. 
 
+- Automates the process of finding and fixing bugs
+
 5. Something is wrong with the code you created, like missing "( )" 
+
+- This is something like the 'grammar' of the code
 
 6. `let` and `const`
 
+- 'let' and 'const'
+
 7. 
+
+- Node Package Manager. In conjunction with npmjs.com, we can leverage other code modules to assist with working on our projects.
 
 8. 
 
+- JavaScript Object Notation
+
 9.
+
+- By checking 'package.json' 'dependencies' or 'devDependencies', it reaches out to npmjs.com and installs modules into 'node_modules.'
 
 10. string, number, boolean
 
-
+- 'string', 'number', 'boolean'
