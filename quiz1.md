@@ -34,7 +34,7 @@ Upon completion, `add` and `commit` and...get your changes up to github.com - ho
 
 1. `git` is a terminal that allows a user to interact with and create repositories/directories
 
-2. `bash` is an interface that allows a user to 
+2. `bash` is an interface
 
 3. cd ..
 
